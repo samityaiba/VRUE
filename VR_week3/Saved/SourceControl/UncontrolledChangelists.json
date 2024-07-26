@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/CAMT/Desktop/652110255/VR_week3/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/CAMT/Desktop/652110255/VR_week3/Content/Megascans/3D_Assets/Baguette_Bread_ujqhebs/S_Baguette_Bread_ujqhebs_lod3_Var1.uasset",
+				"C:/Users/CAMT/Desktop/652110255/VR_week3/Content/BP/Bread.uasset",
+				"C:/Users/CAMT/Desktop/652110255/VR_week3/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/CAMT/Desktop/652110255/VR_week3/Content/Newinput/IA_Test.uasset",
+				"C:/Users/CAMT/Desktop/652110255/VR_week3/Content/Newinput/IMC_Test.uasset",
+				"C:/Users/CAMT/Desktop/652110255/VR_week3/Content/VRTemplate/Input/PMI_VRTemplate.uasset",
+				"C:/Users/CAMT/Desktop/652110255/VR_week3/Content/VRTemplate/Input/IMC_Default.uasset",
+				"C:/Users/CAMT/Desktop/652110255/VR_week3/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/CAMT/Desktop/652110255/VR_week3/Content/Test_teloport.umap"
+			]
+		}
+	]
+}

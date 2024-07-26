@@ -1,0 +1,8 @@
+2024/07/26-10:17:50.953 340c Reusing MANIFEST C:/Users/CAMT/Desktop/652110255/VR_week3/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/26-10:17:50.953 340c Recovering log #7
+2024/07/26-10:17:50.953 340c Reusing old log C:/Users/CAMT/Desktop/652110255/VR_week3/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000007.log 
+2024/07/26-10:32:17.917 5a9c Level-0 table #11: started
+2024/07/26-10:32:17.917 5a9c Level-0 table #11: 0 bytes OK
+2024/07/26-10:32:17.919 5a9c Delete type=0 #7
+2024/07/26-10:32:17.919 5a9c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/07/26-10:32:17.919 5a9c Manual compaction at level-1 from (begin) .. (end); will stop at (end)
